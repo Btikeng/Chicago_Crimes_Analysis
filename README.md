@@ -1,7 +1,7 @@
 ## Chicago_Crimes_Analysis ##
 =======
 
-**INTRODUCTION**
+**SUMMARY**
 
 The development of new technology allows the present century to predict the dangerous situations to which an individual may be subjected, based on data collected and recorded in the past. We live daily in fear of murders and crimes that geographically influence our movements in our various cities. Our Project is about crimes, specifically in the city of Chicago.
 And our main goal is to analyze the criminal data recorded in the Chicago police website from 2001 to the present.
